@@ -1,0 +1,16 @@
+{
+  "name": "devworld-xcodebuild-for-fun-and-profit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grid-styled": "^5.0.2",
+    "mdx-deck": "^1.6.4"
+  }
+}
